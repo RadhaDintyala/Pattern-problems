@@ -1,4 +1,4 @@
-stg = "Radha Kalyani"
+stg = "Hello World"
 temp = ""
 rev = ""
 
